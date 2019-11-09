@@ -28,8 +28,8 @@ def main():
 def parse_input_line(line):
 
   is_character = True
-  char = 'x'
-  code_point = 1
+  char = '惑'
+  code_point = "U+60D1"
 
   return is_character, char, code_point
 
